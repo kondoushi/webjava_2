@@ -49,7 +49,7 @@ public class ConstantPrintMsg {
 	}
 
 	public static void printInputFailed() {
-		System.out.println("1～3を入力してください！");
+		System.out.println("正しいコマンドを入力してください！");
 	}
 
 	public static void printDummy() {
